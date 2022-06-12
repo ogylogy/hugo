@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ogylogy..github.io/hugo/pir/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ogylogy..github.io/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pir"
+                href="https://ogylogy..github.io/hugo/pir/"
+                />
+  </url>
+  <url>
+    <loc>https://ogylogy..github.io/hugo/pir/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ogylogy..github.io/hugo/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pir"
+                href="https://ogylogy..github.io/hugo/pir/categories/"
+                />
+  </url>
+  <url>
+    <loc>https://ogylogy..github.io/hugo/pir/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ogylogy..github.io/hugo/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pir"
+                href="https://ogylogy..github.io/hugo/pir/tags/"
+                />
+  </url>
+</urlset>
